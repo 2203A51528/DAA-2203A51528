@@ -9,3 +9,4 @@ https://github.com/2203A51528/DAA-2203A51528/blob/main/week2(3Q%20).c
 https://github.com/2203A51528/DAA-2203A51528/blob/main/binary%20search.c
 https://github.com/2203A51528/DAA-2203A51528/blob/main/binarysearch%20in%20selectionsort.c
 https://github.com/2203A51528/DAA-2203A51528/blob/main/binarysearch%20in%20bubblesort.c
+https://github.com/2203A51528/DAA-2203A51528/blob/main/binarysearch%20in%20insertion%20sort.c
